@@ -142,8 +142,8 @@ def main():
           "Bahrain and Kuwait engaged drones in the sharpest US\u2013Iran "
           "escalation in years."),
          ("UKRAINE  •  WAR",
-          "Kerch Bridge partly collapses",
-          "Drones and missiles brought down part of the span to Crimea.")],
+          "Russia fires 141 drones at Ukraine; 126 downed",
+          "Overnight strikes hit seven sites; homes and power cut in the Rivne region.")],
         [("SPACE  •  SCIENCE",
           "Voyager 1 reaches one light-day from Earth",
           "16.1 billion miles out; its signals now take a full day each way."),

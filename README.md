@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261118/alfajri14092002-a11y/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 [![reward](https://make.fun/badge/news-image-20261118/alfajri14092002-a11y/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
-One image summing up the world's news of Wednesday 18 November 2026: Xi and Putin meet in Shenzhen ahead of a historic three-way summit, Iran fires drones at US bases in the Gulf, the Kerch Bridge partly collapses, Voyager 1 reaches one light-day from Earth, the US loses measles-free status, and Fed minutes move markets.
+One image summing up the world's news of Wednesday 18 November 2026: Xi and Putin meet in Shenzhen ahead of a historic three-way summit, Iran fires drones at US bases in the Gulf, Russia fires 141 drones at Ukraine, Voyager 1 reaches one light-day from Earth, the US loses measles-free status, and Fed minutes move markets.
 
 ## Run it
 
